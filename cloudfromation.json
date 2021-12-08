@@ -1,0 +1,74 @@
+{
+    "People": [
+        {
+            "Pearson1": {
+                "FisrtName": "MalleswaraRao",
+                "LastName": "Chennu",
+                "Location": "pune",
+                "Country": "India",
+                "Hobbies": [
+                    "Learning",
+                    "Practicing",
+                    "Working"
+                ]
+            },
+            "Pearson2": {
+                "FisrtName": "MalleswaraRao",
+                "LastName": "Chennu",
+                "Location": "pune",
+                "Country": "India",
+                "Hobbies": [
+                    "Learning",
+                    "Practicing",
+                    "Working"
+                ]
+            },
+            "Pearson3": {
+                "FisrtName": "MalleswaraRao",
+                "LastName": "Chennu",
+                "Location": "pune",
+                "Country": "India",
+                "Hobbies": [
+                    "Learning",
+                    "Practicing",
+                    "Working"
+                ]
+            }
+        },
+        {
+            "Pearson4": {
+                "FisrtName": "MalleswaraRao",
+                "LastName": "Chennu",
+                "Location": "pune",
+                "Country": "India",
+                "Hobbies": [
+                    "Learning",
+                    "Practicing",
+                    "Working"
+                ]
+            },
+            "Pearson5": {
+                "FisrtName": "MalleswaraRao",
+                "LastName": "Chennu",
+                "Location": "pune",
+                "Country": "India",
+                "Hobbies": [
+                    "Learning",
+                    "Practicing",
+                    "Working"
+                ]
+            },
+            "Pearson6": {
+                "FisrtName": "MalleswaraRao",
+                "LastName": "Chennu",
+                "Location": "pune",
+                "Country": "India",
+                "Hobbies": [
+                    "Learning",
+                    "Practicing",
+                    "Working"
+                ]
+            }
+        }
+    ]
+}
